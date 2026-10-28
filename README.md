@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm ISHA GOYAL</h1>
+<h1 align="center">Hi 👋, I'm Isha Goyal</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=7C83FD&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning;Predictive+Analytics+%26+Data+Science;Building+Intelligent+Systems" alt="Typing SVG" />
+</p>
 <h3 align="center">Exploring Intelligence Through Machine Learning & Data</h3>
 
 - 🌱 I’m currently learning **Machine Learning, Predictive Modeling, Feature Engineering, Model Evaluation**
