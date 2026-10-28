@@ -51,8 +51,8 @@
 ### 🛡️ Evidence Protector
 An evidence-focused project exploring secure evidence handling, verification, and traceability.
 
-### 📊 Predictive Analytics System
-A machine learning project focused on analyzing data, identifying patterns, and generating predictions.
+### 🏗️ Infrastructure Project Delays Prediction
+A machine learning project focused on predicting infrastructure project delays using data analysis and predictive modeling to identify potential risks and support better project planning.
 
 ### 🤖 Strategic AI Competition Simulator
 An interactive project exploring strategic competition between AI service providers through comparisons and simulation.
