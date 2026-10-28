@@ -1,11 +1,10 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Isha+Goyal+%F0%9F%91%8B" alt="Hi, I'm Isha Goyal" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=A970FF&center=true&vCenter=true&width=700&lines=HI%2C+I+AM+ISHA+GOYAL+%F0%9F%91%8B" alt="HI, I AM ISHA GOYAL" />
 </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=650&lines=Artificial+Intelligence;Machine+Learning;Predictive+Analytics;Data+Science;AI-Powered+Solutions" alt="AI and Machine Learning" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=650&lines=ARTIFICIAL+INTELLIGENCE;MACHINE+LEARNING;PREDICTIVE+ANALYTICS;DATA+SCIENCE;AI-POWERED+SOLUTIONS" alt="AI and Machine Learning" />
 </h3>
-
 ---
 
 ## 👩‍💻 About Me
