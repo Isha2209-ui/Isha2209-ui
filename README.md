@@ -1,18 +1,10 @@
-<h1 align="center">Hi 👋, I'm Isha Goyal</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Isha+Goyal+%F0%9F%91%8B" alt="Hi, I'm Isha Goyal" />
+</h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=650&lines=Exploring+Artificial+Intelligence;Learning+Machine+Learning;Building+Predictive+Models;Turning+Data+into+Insights;Developing+AI-Powered+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=650&lines=Artificial+Intelligence;Machine+Learning;Predictive+Analytics;Data+Science;AI-Powered+Solutions" alt="AI and Machine Learning" />
 </h3>
-
-<p align="center">
-  B.Tech Computer Science and Engineering student at Manipal University Jaipur
-</p>
-
-<p align="center">
-  <a href="https://github.com/Isha2209-ui">
-    <img src="https://img.shields.io/badge/GitHub-Isha2209--ui-181717?style=for-the-badge&logo=github" alt="GitHub Profile" />
-  </a>
-</p>
 
 ---
 
