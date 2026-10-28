@@ -1,141 +1,98 @@
 <h1 align="center">Hi 👋, I'm Isha Goyal</h1>
 
-<h3 align="center">Exploring Intelligence Through Machine Learning & Data</h3>
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=650&lines=Exploring+Artificial+Intelligence;Learning+Machine+Learning;Building+Predictive+Models;Turning+Data+into+Insights;Developing+AI-Powered+Solutions" alt="Typing SVG" />
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7C83FD&center=true&vCenter=true&width=750&lines=Machine+Learning+%26+Artificial+Intelligence;Predictive+Analytics+%26+Data+Science;Building+Intelligent%2C+Data-Driven+Solutions;Turning+Data+Into+Insights" alt="Animated typing introduction" />
+  B.Tech Computer Science and Engineering student at Manipal University Jaipur
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Isha2209-ui&label=Profile%20Views&color=7C83FD&style=flat" alt="Profile views" />
+  <a href="https://github.com/Isha2209-ui">
+    <img src="https://img.shields.io/badge/GitHub-Isha2209--ui-181717?style=for-the-badge&logo=github" alt="GitHub Profile" />
+  </a>
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-I'm a Computer Science and Engineering undergraduate at **Manipal University Jaipur**, interested in building intelligent, data-driven solutions to real-world problems.
-
-- 🔭 Exploring **Machine Learning, Predictive Analytics, and AI-powered applications**
-- 🌱 Currently learning **Feature Engineering, Model Evaluation, and Predictive Modeling**
-- 🧠 Interested in transforming raw data into meaningful insights and reliable predictions
-- 📊 Enjoy working with data analysis, visualization, and machine learning models
-- 🎯 Focused on developing practical projects that combine analytical thinking with intelligent systems
-- 📫 Reach me through [LinkedIn](https://www.linkedin.com/) or explore my repositories below.
+- 🎓 Pursuing B.Tech in Computer Science and Engineering.
+- 🤖 Interested in Artificial Intelligence and Machine Learning.
+- 📊 Exploring predictive analytics, data science, and intelligent systems.
+- 💻 Building projects that combine programming, data, and practical problem-solving.
+- 🌱 Continuously learning and improving my technical skills.
 
 ---
 
-## 🧠 Areas of Interest
-
-<p>
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-7C83FD?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Artificial Intelligence" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-00A896?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning" />
-  <img src="https://img.shields.io/badge/Data%20Science-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Data Science" />
-  <img src="https://img.shields.io/badge/Predictive%20Analytics-E76F51?style=for-the-badge&logo=databricks&logoColor=white" alt="Predictive Analytics" />
-</p>
-
----
-
-## 🛠️ Languages and Tools
+## 🛠️ Technical Skills
 
 ### Programming Languages
-
 <p>
-  <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python" /></a>
-  <a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" height="45" alt="C" /></a>
-  <a href="https://www.w3.org/standards/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript" /></a>
+  <img src="https://skillicons.dev/icons?i=python,c" alt="Python and C" />
 </p>
 
-### AI, Machine Learning and Data Science
-
+### AI, Machine Learning & Data Science
 <p>
-  <a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45" height="45" alt="Scikit-learn" /></a>
-  <a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas" /></a>
-  <a href="https://numpy.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45" height="45" alt="NumPy" /></a>
-  <a href="https://matplotlib.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="45" height="45" alt="Matplotlib" /></a>
-  <a href="https://seaborn.pydata.org/"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="45" height="45" alt="Seaborn" /></a>
+  <img src="https://img.shields.io/badge/Machine%20Learning-Research%20%26%20Projects-blue?style=for-the-badge" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Predictive%20Analytics-Data%20Driven-green?style=for-the-badge" alt="Predictive Analytics" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib" />
 </p>
 
 ### Web Development
-
 <p>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3" /></a>
-  <a href="https://react.dev/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45" alt="React" /></a>
-  <a href="https://nodejs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js" /></a>
-  <a href="https://www.djangoproject.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="45" height="45" alt="Django" /></a>
-  <a href="https://expressjs.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="45" height="45" alt="Express.js" /></a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" alt="HTML, CSS, JavaScript and React" />
 </p>
 
-### Databases and Tools
-
+### Databases & Tools
 <p>
-  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL" /></a>
-  <a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL" /></a>
-  <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45" height="45" alt="MongoDB" /></a>
-  <a href="https://firebase.google.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" width="45" height="45" alt="Firebase" /></a>
-  <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git" /></a>
-  <a href="https://www.selenium.dev/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="45" height="45" alt="Selenium" /></a>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,vscode" alt="MySQL, PostgreSQL, Git, GitHub and VS Code" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 💳 Finora — Financial Intelligence
+### 🛡️ Evidence Protector
+An evidence-focused project exploring secure evidence handling, verification, and traceability.
 
-An AI/ML-focused financial analytics project exploring spending patterns, expense prediction, and personalized financial insights.
+### 📊 Predictive Analytics System
+A machine learning project focused on analyzing data, identifying patterns, and generating predictions.
 
-### 📈 Predictive Analytics for Infrastructure Project Delays
+### 🤖 Strategic AI Competition Simulator
+An interactive project exploring strategic competition between AI service providers through comparisons and simulation.
 
-A predictive modeling project focused on analyzing infrastructure project data to identify patterns associated with potential delays.
-
-### 🤖 Strategic AI Simulator
-
-An interactive project exploring strategic competition between AI service providers through configurable scenarios and comparative analysis.
-
-### 🏢 Knowledge Centre Workspace Booking System
-
-A workspace booking application designed to help students and faculty manage cabin and seating reservations.
-
-> Explore my GitHub repositories for implementation details, technologies, and project updates.
+### 💳 CredWise — Credit Intelligence Dashboard
+A financial intelligence project concept focused on credit utilization, spending analysis, and personalized financial insights.
 
 ---
 
-## 📊 GitHub Statistics
+## 📈 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Isha2209-ui&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180" alt="Isha's GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isha2209-ui&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Most used programming languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Isha2209-ui&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isha2209-ui&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Isha2209-ui&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+  <img src="https://streak-stats.demolab.com?user=Isha2209-ui&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-## 🌱 Currently Exploring
+## 🎯 Current Focus
 
-- Machine Learning algorithms and predictive modeling
-- Feature engineering and model evaluation
-- Data visualization and exploratory data analysis
-- Explainable AI and interpretable predictions
-- Building practical AI/ML applications
+- Strengthening machine learning fundamentals.
+- Building practical AI and data science projects.
+- Improving Python and problem-solving skills.
+- Exploring intelligent systems and predictive modeling.
 
 ---
 
-## 🤝 Let's Connect
-
-<p align="left">
-  <a href="https://github.com/Isha2209-ui">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
-
 <p align="center">
-  <i>"Turning curiosity into code, data into insights, and ideas into intelligent solutions."</i>
+  <i>Learning continuously. Building intelligently. Turning ideas into impact.</i>
 </p>
