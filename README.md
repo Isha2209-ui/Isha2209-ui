@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=650&lines=ARTIFICIAL+INTELLIGENCE;MACHINE+LEARNING;PREDICTIVE+ANALYTICS;DATA+SCIENCE;AI-POWERED+SOLUTIONS" alt="AI and Machine Learning" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1500&color=36BCF7&center=true&vCenter=true&width=750&lines=EXPLORING+AI%2C+MACHINE+LEARNING+%26+DATA" alt="Exploring AI, Machine Learning and Data" />
 </h3>
 ---
 
