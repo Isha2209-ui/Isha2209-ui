@@ -66,15 +66,27 @@ An interactive Python application using the A* search algorithm to identify effi
 
 ---
 
+
 ## 📈 GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Isha2209-ui&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isha2209-ui&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=Isha2209-ui&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    alt="GitHub Stats"
+  />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isha2209-ui&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Most Used Languages"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Isha2209-ui&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img
+    src="https://streak-stats.demolab.com?user=Isha2209-ui&theme=tokyonight&hide_border=true&cachebust=20261029"
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
