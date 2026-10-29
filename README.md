@@ -60,6 +60,10 @@ An interactive project exploring strategic competition between AI service provid
 ### 💳 CredWise — Credit Intelligence Dashboard
 A financial intelligence project concept focused on credit utilization, spending analysis, and personalized financial insights.
 
+### 🚨 AI-Based Emergency Evacuation Route Planner
+
+An interactive Python application using the A* search algorithm to identify efficient evacuation routes while avoiding blocked or dangerous areas. Features grid-based visualization, obstacle management, and step-by-step search exploration.
+
 ---
 
 ## 📈 GitHub Statistics
